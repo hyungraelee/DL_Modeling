@@ -24,3 +24,7 @@ https://arxiv.org/abs/1406.2661
 
 # Blog
 https://velog.io/@hyungraelee/Generative-Adversarial-NetworksGAN-논문-학습-정리
+
+# Reference
+위 코드는 동빈나님의 유튜브 및 깃허브를 참고하여 작성하였습니다.  
+https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice
